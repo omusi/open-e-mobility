@@ -186,7 +186,7 @@
     "@types/cors": "^2.8.12",
     "@types/ejs": "^3.1.1",
     "@types/express": "^4.17.14",
-    "@types/express-useragent": "^1.0.2",
+    "@types/express-useragent": "^1.0.5",
     "@types/hpp": "^0.2.2",
     "@types/i18n-js": "^3.8.3",
     "@types/intl": "^1.2.0",
